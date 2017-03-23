@@ -7,3 +7,6 @@ target
 /.settings
 /RUNNING_PID
 lib
+web/node_modules
+web/dist
+public/assets/ember

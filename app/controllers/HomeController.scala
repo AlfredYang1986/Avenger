@@ -10,6 +10,6 @@ import play.api.mvc._
   */
 class HomeController extends Controller {
     def index = Action {
-        Ok(s"yangyuan")
+        Ok(views.html.new_web())
     }
 }
